@@ -1,6 +1,6 @@
 # TARA
 
-Code and Data for our ACL 2023 Paper "[Knowing-how & Knowing-that: A New Task for Machine Reading Comprehension of User Manuals](https://arxiv.org/abs/2306.04187)".
+Code and Dataset for our ACL 2023 Paper "[Knowing-how & Knowing-that: A New Task for Machine Reading Comprehension of User Manuals](https://arxiv.org/abs/2306.04187)".
 
 ## About TARA
 We propose the Knowing-how & Knowing-that task that requires the model to answer various questions about a user manual. We resolve it by representing the steps and facts of a user manual in a unified graph named TARA. To benchmark it, we design an efficient method and annotate a testing set derived from real-world customer service scenarios.
